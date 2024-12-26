@@ -49,7 +49,3 @@ for filepath in list_of_files:
     
     else:
         logging.info(f"{filename} is already exists")
-
-#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
-
-git remote set-url origin https://polock_11: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@github.com/polock11/E2E-Text-Summarizer.git
